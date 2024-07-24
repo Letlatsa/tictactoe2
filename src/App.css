@@ -94,3 +94,12 @@
 .winner-visible {
   display: block;
 }
+.points {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 1.2em;
+  background: #f8f9fa;
+  padding: 10px;
+  border-radius: 5px;
+}
