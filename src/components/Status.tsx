@@ -4,7 +4,7 @@ interface StatusProps {
   currentPlayer: string;
   winner: string | null;
 }
-
+//to check any winner
 const Status: React.FC<StatusProps> = ({ currentPlayer, winner }) => {
   return (
     <div>
